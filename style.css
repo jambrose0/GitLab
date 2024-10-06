@@ -1,1 +1,15 @@
-
+body {
+    background-color: #EEF1EF;
+}
+h1 {
+    border-bottom: red solid;
+    align-items: center;
+    font-weight: 700;
+}
+blockquote {
+    font-style: italic;
+    color: #114B5F;
+    width: 40%;
+    font-size: large;
+    align-items: center;
+}
